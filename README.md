@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose for this assignment was to create an attractive, accessible, and interactive data visualization Web page. JavaScript was used to create interactive features, such as buttons and dropdown menus. Data was retrieved from external sources using D3.json().
+The purpose of this assignment was to create an attractive, accessible, and interactive data visualization Web page. JavaScript was used to create interactive features, such as buttons and dropdown menus. Data was retrieved from external sources using D3.json().
 
 ## Resources
 
