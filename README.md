@@ -23,4 +23,4 @@ The following resources were utilized to complete the assignment:
 - Event handlers in JavaScript to enhance interactivity
 - Deployment of web page to GitHub Pages 
 
-(https://jacqueline-esbri.github.io/BellyButton_Dashboard/)
+https://jacqueline-esbri.github.io/BellyButton_Dashboard/
