@@ -23,4 +23,12 @@ The following resources were utilized to complete the assignment:
 - Event handlers in JavaScript to enhance interactivity
 - Deployment of web page to GitHub Pages 
 
+
+## Result
+
+Note: When we click on dropdown menu, the ID of the volunteer displays on x-axis of bar and bubble chart.
+
+### Fig.1
+![web.PNG](PNGs/web.png)
+
 https://jacqueline-esbri.github.io/BellyButton_Dashboard/
