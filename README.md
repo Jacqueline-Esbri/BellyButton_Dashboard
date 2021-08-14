@@ -1,4 +1,6 @@
 # BellyButton Dashboard
+![mod12.png](PNGs/mod12.png)
+
 
 ## Overview
 
@@ -17,10 +19,11 @@ The following resources were utilized to complete the assignment:
 ## Process
 
 - Creation of basic plots, bar, line, and pie charts with Plotly
-- D3.json() to fetch external data
-- Functional programming in JavaScript to manipulate data
-- JavaScript Math library to manipulate numbers
-- Event handlers in JavaScript to enhance interactivity
+- D3.json() to fetch external data (CSVs, web APIs)
+- Parse data in JSON format
+- Used functional programming in JavaScript to manipulate data
+- Used JavaScript's Math library to manipulate numbers
+- Used event handlers in JavaScript to enhance interactivity
 - Deployment of web page to GitHub Pages 
 
 
